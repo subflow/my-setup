@@ -1,9 +1,14 @@
 # My Visual Studio Code setup
 
-This globally installs the airbnb-eslint-config and prettier setup from Wes Bos.
+##### This is mostly for myself but if someone would be interested. Here it is.
+
+The most important tool for me is the eslint config from Wes Bos.
+He also have amazing courses check out his stuff at https://wesbos.com
+
+And his ES Lint config here:
 https://github.com/wesbos/eslint-config-wesbos
 
-And for the looks of vs code i use Victor Mono font, with ligatures and italic style.
+For the looks of vs code i use Victor Mono font, with ligatures and italic style. All configs included here.
 
 1. First you need to make a global `.eslintrc` file:
 
@@ -359,3 +364,18 @@ And this is what i use on my macbook air.
   }
 }
 ```
+
+5. Finally the extensions i use:
+
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+- [language-stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+Cheers!
